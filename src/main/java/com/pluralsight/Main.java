@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Charger,");
         System.out.println("Notebook.");
         System.out.println("total 100$ ");
+        System.out.println("Tax 8$ ");
 
 
     }
