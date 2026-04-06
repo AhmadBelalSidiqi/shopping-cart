@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Tomato,");
         System.out.println("Charger,");
         System.out.println("Notebook.");
+        System.out.println("total 100$ ");
 
 
     }
