@@ -1,6 +1,10 @@
 package com.pluralsight;
 public class Main {
+
     public static void main(String[] args) {
+        ShopingList();
+    }
+    public static void ShopingList(){
         System.out.println("Shopping list : ");
         System.out.println("Banana,");
         System.out.println("Apple,");
@@ -14,6 +18,6 @@ public class Main {
         System.out.println("total 100$ ");
         System.out.println("Tax 8$ ");
 
-
     }
+
 }
